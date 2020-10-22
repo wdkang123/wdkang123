@@ -1,4 +1,4 @@
-###  Hello~ This is WDKANG 👋
+### 👋 你好呀 我是康康~ 
 
 <!--
 **wdkang123/wdkang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@
 - 😄 个人小站 http://www.wdkang.top/
 - ⚡ 联系我 ~ 可以 issue 也可以 邮件 wuzikang1998@gmail.com
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=wdkang123&show_icons=true&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**✨ GitHub Status** <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=wdkang123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+**✨ Langs Status** <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdkang123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
