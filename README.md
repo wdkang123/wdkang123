@@ -1,4 +1,4 @@
-### 👋 你好呀 我是康康~ 
+### 👋 你好呀 我叫武子康 可以直接叫我康康~ 
 
 <!--
 **wdkang123/wdkang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
