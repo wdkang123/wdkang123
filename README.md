@@ -1,5 +1,6 @@
-### 👋 你好呀 我叫武子康 可以直接叫我康康~ 
-
+### 👋 你好呀 我叫武子康 
+#### 可以直接叫我康康~ 
+#### 哎 康康 => icon [ˈaɪkɒn]
 <!--
 **wdkang123/wdkang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
