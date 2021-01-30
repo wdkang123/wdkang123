@@ -6,12 +6,11 @@
 -->
 
 - 🔭 大四学生 正在努力学习
-- 🌱 平常主要接触的是 Java Python JavaScript Vue 前后端 爬虫
-- 👯 C/C++ stm32 React Android ··· 等等 都会一丢丢
-- 🤔 对一切技术都有高度的好奇 喜欢做很多有趣的东西
-- 💬 但是时间有限没办法都学会 在别人看来是不务正业
+- 🌱 平常主要接触的是 Java Python JavaScript Vue 前后端 爬虫 C/C++ 等等等等...
+- 🤔 对一切的技术都有高度的兴趣 喜欢做很多有趣好玩的东西
+- 💬 但是精力有限没办法学的很全面 很多时候会被人当做不务正业
 - 📫 保持热情 好好努力
-- 😄 个人小站 http://www.wdkang.top/
+- 😄 个人小站 https://wdkang.top/
 - ⚡ 联系我 ~ 可以 issue 也可以 邮件 wuzikang1998@gmail.com
 
 <br>
