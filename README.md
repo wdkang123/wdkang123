@@ -5,7 +5,6 @@
 **wdkang123/wdkang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 大四学生 正在努力学习
 - 🌱 平常主要接触的是 Java Python JavaScript Vue 前后端 爬虫 C/C++ 等等等等...
 - 🤔 对一切的技术都有高度的兴趣 喜欢做很多有趣好玩的东西
 - 💬 但是精力有限没办法学的很全面 很多时候会被人当做不务正业
