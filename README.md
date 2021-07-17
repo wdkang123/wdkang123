@@ -6,7 +6,7 @@
 
 - 🌱 平常主要接触的是 Java Python JavaScript 等等等等...
 - 🤔 对一切的技术都有高度的热情和兴趣
-- 💬 早日成长为生成全干工程师
+- 💬 期待早日成为全干工程师
 - 📫 保持热情 好好努力
 - 😄 个人小站 https://wdkang.top/
 - ⚡ 联系我 issue / wuzikang1998@gmail.com
