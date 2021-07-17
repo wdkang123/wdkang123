@@ -1,16 +1,15 @@
 ### 👋 你好呀 我叫武子康 
-#### :stuck_out_tongue_closed_eyes: 可以直接叫我康康~ 
 #### :stuck_out_tongue_closed_eyes: 哎 康康 => icon [ˈaɪkɒn]
 <!--
 **wdkang123/wdkang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 平常主要接触的是 Java Python JavaScript Vue 前后端 爬虫 C/C++ 等等等等...
-- 🤔 对一切的技术都有高度的兴趣 喜欢做很多有趣好玩的东西
-- 💬 但是精力有限没办法学的很全面 很多时候会被人当做不务正业
+- 🌱 平常主要接触的是 Java Python JavaScript 等等等等...
+- 🤔 对一切的技术都有高度的热情和兴趣
+- 💬 早日成长为生成全干工程师
 - 📫 保持热情 好好努力
 - 😄 个人小站 https://wdkang.top/
-- ⚡ 联系我 ~ 可以 issue 也可以 邮件 wuzikang1998@gmail.com
+- ⚡ 联系我 issue / wuzikang1998@gmail.com
 
 <br>
 
