@@ -14,11 +14,12 @@
 
 ### 🛠️ 我的技术栈
 
-- **主力语言**：Java
-- **日常工具**：Go、Python、JavaScript（Vue / React）
+- **主力语言**：Java（SpringBoot / SpringCloud）
+- **日常工具**：Go、Python（Scrapy / Flask / FastAPI)、JavaScript（Vue / React）
 - **云与部署**：DevOps、Kubernetes、CI/CD
 - **大数据**：Flink、Spark、ClickHouse
 - **AI**: 大语言模型微调、多模态、模型蒸馏、MCP
+- **其他**：JS逆向、APP逆向
 
 > *我认为，语言和技术只是手段，真正重要的是对问题的理解和解决的思维方式。*
 
