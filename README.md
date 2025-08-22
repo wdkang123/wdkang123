@@ -14,12 +14,15 @@
 
 ### 🛠️ 我的技术栈
 
-- **主力语言**：Java（SpringBoot / SpringCloud）
+- **主力语言**：Java（Spring Boot / Spring Cloud）
 - **日常工具**：Go、Python（Scrapy / Flask / FastAPI)、JavaScript（Vue / React）
 - **云与部署**：DevOps、Kubernetes、CI/CD
 - **大数据**：Flink、Spark、ClickHouse
 - **AI**: 大语言模型微调、多模态、模型蒸馏、MCP
 - **其他**：JS逆向、APP逆向
+
+<img width="824" height="374" alt="武子康的技术栈" src="https://github.com/user-attachments/assets/c086bcfc-dbea-463c-8f15-70052a44bf2d" />
+
 
 > *我认为，语言和技术只是手段，真正重要的是对问题的理解和解决的思维方式。*
 
@@ -35,8 +38,12 @@
 
 ### 🗺️ 更多内容
 
-- 📖 Blog：https://blog.csdn.net/w776341482?type=blog
-- 💬 主页：https://wzk.icu https://i1i.co 
+- 💬 这里可以找到我：https://wzk.icu https://i1i.co
+- 📖 博客：https://blog.csdn.net/w776341482?type=blog https://wuzikang.blog.csdn.net
+- 📚 掘金：https://juejin.cn/user/149189314230039
+- 💻 LinkedIn：https://www.linkedin.com/in/wuzikang
+- ❄️ InfoQ：https://www.infoq.cn/u/wzkicu/publish
+- 🎈 微信：wzkicu 请注明来源和来意
 
 ---
 
