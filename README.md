@@ -14,13 +14,6 @@
 
 ### 🛠️ 我的技术栈
 
-- **主力语言**：Java（Spring Boot / Spring Cloud）
-- **日常工具**：Go、Python（Scrapy / Flask / FastAPI)、JavaScript（Vue / React）
-- **云与部署**：DevOps、Kubernetes、CI/CD
-- **大数据**：Flink、Spark、ClickHouse
-- **AI**: 大语言模型微调、多模态、模型蒸馏、MCP
-- **其他**：JS逆向、APP逆向
-
 - **Java 后端基础**：掌握 Java 基础、集合、多线程、网络编程、I/O 模型、JVM、垃圾回收、Netty 及常用设计模式。
 - **微服务与平台开发**：熟悉 Spring Boot / Spring Cloud Alibaba 技术栈，具备 Nacos、Gateway、Feign、服务治理、限流熔断、链路追踪、统一鉴权、数据加密等实践经验；有脚手架、通用组件、插件扩展及基础平台建设经验。
 - **数据存储与中间件**： 熟悉 MySQL、Redis、Elasticsearch、Kafka、RabbitMQ 等常用存储与中间件，具备 SQL 优化、缓存治理、消息可靠性、ES 检索聚合、冷热分离及高并发场景处理经验。
