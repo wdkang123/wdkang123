@@ -1,49 +1,72 @@
-#### :stuck_out_tongue_closed_eyes: 哎 康康 => icon [ˈaɪkɒn]
-<!--
-**wdkang123/wdkang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 武子康 | WuZiKang
 
-### Hi, I'm Zikang / 武子康 👋  
+**Curiosity-driven builder.**  
+Java Backend / Microservices / AI Engineering / Real-time Voice Systems
 
-🚀 **好奇心驱动的探索者 | INTJ / INFJ**
+我是一名长期在一线做工程落地的开发者，主要关注 **Java 后端、微服务架构、平台研发、AI 应用工程化、实时语音链路与自动化工具**。
 
-我热爱探索一切值得深究的事物。对技术、成长、效率、认知、人生有着持续的好奇心和行动力。  
-坚信「飞轮效应」，相信每一次微小的积累，终将带来深远的改变。
+这些年我更在意的，始终不是“懂了多少概念”，而是一个系统能不能真正跑起来，一个方案能不能在真实环境里稳定落地，一个复杂问题能不能被拆开、做成、持续优化。
+
+这里是我的 GitHub。更完整的内容、项目、文章和思考，放在我的个人网站：
+
+**Personal Website:** [wzk.icu](https://wzk.icu/)
+
+## About Me
+
+我喜欢研究那些链路长、环节多、真正有落地难度的问题。
+
+从 Java 后端、微服务、网关、缓存、消息队列、数据链路，到 Kubernetes、CI/CD、工程化建设，再到近两年持续投入的 **LLM applications、Agent systems、ASR / TTS、real-time voice interaction**，我一直在做同一类事情：
+
+**把复杂问题变成可运行、可维护、可演进的系统。**
+
+除了写代码，我也会长期写作、整理、复盘。  
+我希望自己留下来的，不只是做过哪些项目，还有一条持续迭代、持续变强的轨迹。
+
+## What I Work On
+
+### AI Engineering
+LLM 应用开发、Agent / Function Calling、ASR / TTS、实时语音交互、多模态能力接入与工程化落地。
+
+### Backend & Infrastructure
+Java、Spring Boot、Spring Cloud Alibaba、网关、服务治理、缓存、消息队列、MySQL、Redis、Elasticsearch、Kafka，以及稳定性与性能优化。
+
+### Platform & DevOps
+Docker、Kubernetes、CI/CD、工程脚手架、通用组件、发布流程优化、线上问题排查与基础设施建设。
+
+### Writing & Experiments
+技术博客、项目复盘、自动化工具、个人工作流，以及一些软硬结合的实验和长期项目。
+
+## Start Here
+
+- [Blog](https://wzk.icu/blog/)  
+  写技术实践、项目复盘、工程问题，也写一些关于成长和长期主义的思考。
+
+- [Projects](https://wzk.icu/projects/)  
+  这里放我正在做的项目和实验，包括个人技术门户、AI 工程化实验室和自动化系统。
+
+- [FAQ](https://wzk.icu/faq/)  
+  如果你想快速了解我关注什么、在做什么，可以从这里开始。
+
+- [About](https://wzk.icu/about/)  
+  更完整的个人介绍、经历脉络和这个网站存在的原因。
+
+## A Few Things I Care About
+
+- 不迷信概念，重视验证
+- 不回避复杂问题，先拆再做
+- 不只追求 "knowing"，更追求 "building"
+- 持续记录，持续迭代，持续变强
+
+## Elsewhere
+
+- GitHub: [github.com/wdkang123](https://github.com/wdkang123)
+- Website: [wzk.icu](https://wzk.icu/)
+- CSDN: [blog.csdn.net/w776341482](https://blog.csdn.net/w776341482?type=blog)
+- 掘金: [juejin.cn/user/149189314230039](https://juejin.cn/user/149189314230039)
+- InfoQ: [infoq.cn/u/wzkicu/publish](https://www.infoq.cn/u/wzkicu/publish)
+- LinkedIn: [linkedin.com/in/wuzikang](https://www.linkedin.com/in/wuzikang)
 
 ---
 
-### 🛠️ 我的技术栈
-
-- **Java 后端基础**：掌握 Java 基础、集合、多线程、网络编程、I/O 模型、JVM、垃圾回收、Netty 及常用设计模式。
-- **微服务与平台开发**：熟悉 Spring Boot / Spring Cloud Alibaba 技术栈，具备 Nacos、Gateway、Feign、服务治理、限流熔断、链路追踪、统一鉴权、数据加密等实践经验；有脚手架、通用组件、插件扩展及基础平台建设经验。
-- **数据存储与中间件**： 熟悉 MySQL、Redis、Elasticsearch、Kafka、RabbitMQ 等常用存储与中间件，具备 SQL 优化、缓存治理、消息可靠性、ES 检索聚合、冷热分离及高并发场景处理经验。
-- **DevOps与云原生**：熟悉 Jenkins、SonarQube、Docker、Harbor、Kubernetes、Rancher 等工具，具备 CI/CD、容器化部署、上线流程优化及线上问题排查经验。
-- **工程与基础组件**：熟悉 Nginx、FastDFS、XXL-JOB、Guava Cache 等基础组件，具备数据链路建设、文件存储优化、定时调度与服务治理经验。
-- **前端与多语言能力**：具备 Vue/Vue3 常见业务开发能力，可独立完成中后台功能开发；熟悉 Python、Go，可独立编写自动化脚本、辅助工具及轻量服务。
-- **大数据与AI**：对 Hadoop、Hive、Flink、Spark、ClickHouse 等数据技术生态有持续学习和实践积累；关注 LLM、多模态与 AI 应用落地，具备业务接入、思考规划、工具调用、语音链路等工程实践经验。
-- **扩展能力**：具备数据采集、协议分析、自动化处理等辅助工程能力，能够围绕业务问题快速补齐工具链并推动落地。
-
-> *我认为，语言和技术只是手段，真正重要的是对问题的理解和解决的思维方式。*
-
----
-
-### 📓 一些我在思考的方向
-
-- 🧠 如何构建可持续的成长系统
-- 🔁 如何设计真正可复用、可演化的架构
-- 🧭 如何在复杂的现实中保持清醒与初心
-
----
-
-### 🗺️ 更多内容
-
-- 💬 这里可以找到我：https://wzk.icu https://i1i.co
-- 📖 博客：https://blog.csdn.net/w776341482?type=blog https://wuzikang.blog.csdn.net
-- 📚 掘金：https://juejin.cn/user/149189314230039
-- 💻 LinkedIn：https://www.linkedin.com/in/wuzikang
-- ❄️ InfoQ：https://www.infoq.cn/u/wzkicu/publish
-- 🎈 微信：wzkicu 请注明来源和来意
-
----
-
-⭐️ 永远好奇 无限进步
+**Here I write about technology, and also about growth.**  
+希望很多年后回头看，这里留下的不只是文章，还有一个人持续向前的轨迹。
