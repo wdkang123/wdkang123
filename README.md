@@ -1,83 +1,86 @@
-# 武子康 | WuZiKang
+# 武子康 | Zikang Wu
 
-**Curiosity-driven builder.**  
-Java Backend / Microservices / AI Engineering / Real-time Voice Systems
+**Backend Engineering × AI Engineering × Indie Building**
 
-我是一名长期在一线做工程落地的开发者，主要关注 **Java 后端、微服务架构、平台研发、AI 应用工程化、实时语音链路与自动化工具**。
+写代码，做系统，建工具，记录长期成长。
 
-这些年我更在意的，始终不是“懂了多少概念”，而是一个系统能不能真正跑起来，一个方案能不能在真实环境里稳定落地，一个复杂问题能不能被拆开、做成、持续优化。
+我用后端工程、AI 工程化和自动化工具，把复杂问题做成可运行、可复盘、可长期积累的系统。这里是我的 GitHub 入口；更完整的项目地图、技术文章、系列内容和长期记录，放在我的个人技术门户：
 
-这里是我的 GitHub。更完整的内容、项目、文章和思考，放在我的个人网站：
+**Personal Technical Portal:** [wzk.icu](https://wzk.icu/)
 
-**Personal Website:** [wzk.icu](https://wzk.icu/)
+## What I Am Building
 
-## About Me
+- **[wzk.icu](https://wzk.icu/) — Personal Technical Portal / 个人技术门户**
+  长期维护的技术档案、项目地图和写作入口，围绕后端工程、AI Engineering、独立构建、技术文章和长期成长记录展开。可以从 [Start Here](https://wzk.icu/start/)、[Projects](https://wzk.icu/projects/)、[Series](https://wzk.icu/series/) 或 [Blog](https://wzk.icu/blog/) 开始。
 
-我喜欢研究那些链路长、环节多、真正有落地难度的问题。
+- **[AscendLab](https://ascend-lab.com/) — Browser Tools & AI Workflow Previews**
+  一个独立产品实验，当前公开 147 个 browser-side free tools，覆盖 calculators、converters、developer utilities、image/video tools、content tools 和 time tools。Public tools are free and require no account; AI workflows are still preview / early access / planned, not a mature SaaS yet.
 
-从 Java 后端、微服务、网关、缓存、消息队列、数据链路，到 Kubernetes、CI/CD、工程化建设，再到近两年持续投入的 **LLM applications、Agent systems、ASR / TTS、real-time voice interaction**，我一直在做同一类事情：
+- **AI Voice Intelligence Module — 端云协同 AI voice interaction system**
+  正在推进的 AI 工程化项目：端侧关注 wakeup、recording、VAD、playback、interruption；云侧串联 STT → LLM → TTS，并通过 WebSocket / gRPC、Agent / MCP / tool calling、runtime config、trace / observability 把语音交互从 demo 推向可配置、可观测、可扩展的系统。长期方向是 one brain, multiple forms.
 
-**把复杂问题变成可运行、可维护、可演进的系统。**
+- **AI Infra Handbook — AI infrastructure learning and practice handbook**
+  一个学习与实践手册，用来沉淀 LLM application architecture、RAG、Agent / MCP、model serving、inference deployment、GPU、Kubernetes、evaluation、observability 和 cost governance。不包装成权威课程，更像持续更新的工程笔记。
 
-除了写代码，我也会长期写作、整理、复盘。  
-我希望自己留下来的，不只是做过哪些项目，还有一条持续迭代、持续变强的轨迹。
+- **[stop-slop-zh](https://github.com/wdkang123/stop-slop-zh) — Chinese AI writing quality project**
+  面向中文 AI 写作质量治理的规则项目。它不是反 AI，而是反对 vague、mechanical、template-like、fake-depth writing，重点服务中文博客优化、prompt engineering、内容审查和未来 Skill-style checks。
 
-## What I Work On
+- **Code Generator — internal engineering productivity tool**
+  内部工程提效实践：围绕 database / table selection、DTO / Model / VO / Service / DAO / Controller generation、template-based generation 和 AI-assisted API document parameter extraction，减少重复业务代码。生成代码仍然需要工程审查。
+
+- **TeslaMate — digital life experiment**
+  把 driving data、charging、energy cost 和 Grafana dashboard 组织成可回看的个人数据工程实验，用技术辅助日常生活复盘。
+
+## Technical Stack
+
+### Backend & Platform Engineering
+Java、Spring Boot / Spring Cloud Alibaba、MyBatis / MyBatis-Plus、MySQL、Redis、Elasticsearch、RabbitMQ / RocketMQ / Kafka、REST APIs、microservice governance、Gateway、authentication、tracing、Docker、Kubernetes、Rancher、CI/CD、DevOps。
 
 ### AI Engineering
-LLM 应用开发、Agent / Function Calling、ASR / TTS、实时语音交互、多模态能力接入与工程化落地。
+LLM application engineering、Agent / MCP / tool calling、RAG、STT / LLM / TTS pipelines、real-time voice interaction、WebSocket / gRPC、runtime configuration、trace and observability。
 
-### Backend & Infrastructure
-Java、Spring Boot、Spring Cloud Alibaba、网关、服务治理、缓存、消息队列、MySQL、Redis、Elasticsearch、Kafka，以及稳定性与性能优化。
+### Frontend & Product Building
+TypeScript、React / Vue、Next.js / Astro、static site generation、SEO / GEO、browser-side tools、product documentation。
 
-### Platform & DevOps
-Docker、Kubernetes、CI/CD、工程脚手架、通用组件、发布流程优化、线上问题排查与基础设施建设。
+### Automation & Writing
+Codex / Claude Code / ChatGPT-style AI workflows、prompt engineering、technical blog optimization、Markdown documentation、project review、long-term writing systems。
 
-### Writing & Experiments
-技术博客、项目复盘、自动化工具、个人工作流，以及一些软硬结合的实验和长期项目。
+## What I Write About
 
-## Capability Snapshot
+- 后端工程、微服务治理、平台研发、数据链路和稳定性交付。
+- LLM 应用工程化、Agent / MCP、RAG、实时语音链路、AI Infra 和可观测性。
+- 独立工具、浏览器工具、个人自动化、SEO / GEO 和公开作品系统。
+- 中文 AI 写作质量治理、博客优化、项目复盘和长期成长记录。
 
-- **Java Backend**: Java 基础、集合、多线程、网络编程、I/O 模型、JVM、垃圾回收、Netty、设计模式。
-- **Microservices & Platform**: Spring Boot / Spring Cloud Alibaba、Nacos、Gateway、Feign、服务治理、限流熔断、链路追踪、统一鉴权、数据加密、平台化建设。
-- **Data & Middleware**: MySQL、Redis、Elasticsearch、Kafka、RabbitMQ，关注 SQL 优化、缓存治理、消息可靠性、检索聚合与高并发场景处理。
-- **DevOps & Cloud Native**: Jenkins、SonarQube、Docker、Harbor、Kubernetes、Rancher，覆盖 CI/CD、容器化部署、上线流程优化与线上问题排查。
-- **Tools & Automation**: Nginx、FastDFS、XXL-JOB、Guava Cache、Vue / Vue3、Python、Go，以及自动化脚本、辅助工具和轻量服务开发。
-- **AI & Data Ecosystem**: LLM、多模态、语音链路、工具调用，以及 Hadoop、Hive、Flink、Spark、ClickHouse 等方向的持续学习与实践。
+## Current Focus
 
-> 语言和技术只是手段，真正重要的是对问题的理解和解决。
+- 把 [wzk.icu](https://wzk.icu/) 维护成可搜索、可回看、可被 AI 理解的个人技术门户。
+- 持续整理 [AscendLab](https://ascend-lab.com/) 的免费浏览器工具和 AI Workflow preview。
+- 推进 AI 语音智能模块的 trace、latency、runtime config、tool calling 和端到端稳定性。
+- 沉淀 AI Infra Handbook，把 AI 应用背后的基础设施知识整理成可复用地图。
+- 维护 [stop-slop-zh](https://github.com/wdkang123/stop-slop-zh)，把中文 AI 写作质量问题转成可检查、可协作的规则。
 
-## Start Here
+## Principles
 
-- [Blog](https://wzk.icu/blog/)  
-  写技术实践、项目复盘、工程问题，也写一些关于成长和长期主义的思考。
+- 先做成能运行的系统，再谈抽象。
+- 不把 demo 当产品，不把概念当结果。
+- 工程输出需要可复盘、可观测、可迭代。
+- 技术栈只是手段，真正重要的是对问题的理解和解决。
+- 长期记录比短期声量更重要。
 
-- [Projects](https://wzk.icu/projects/)  
-  这里放我正在做的项目和实验，包括个人技术门户、AI 工程化实验室和自动化系统。
+## Public Links
 
-- [FAQ](https://wzk.icu/faq/)  
-  如果你想快速了解我关注什么、在做什么，可以从这里开始。
-
-- [About](https://wzk.icu/about/)  
-  更完整的个人介绍、经历脉络和这个网站存在的原因。
-
-## A Few Things I Care About
-
-- 不迷信概念，重视验证
-- 不回避复杂问题，先拆再做
-- 不只追求 "knowing"，更追求 "building"
-- 持续记录，持续迭代，持续变强
-
-## Elsewhere
-
-- GitHub: [github.com/wdkang123](https://github.com/wdkang123)
 - Website: [wzk.icu](https://wzk.icu/)
-- CSDN: [blog.csdn.net/w776341482](https://blog.csdn.net/w776341482?type=blog)
+- Start Here: [wzk.icu/start](https://wzk.icu/start/)
+- Projects: [wzk.icu/projects](https://wzk.icu/projects/)
+- Blog: [wzk.icu/blog](https://wzk.icu/blog/)
+- Series: [wzk.icu/series](https://wzk.icu/series/)
+- AscendLab: [ascend-lab.com](https://ascend-lab.com/)
+- CSDN: [blog.csdn.net/w776341482](https://blog.csdn.net/w776341482)
 - 掘金: [juejin.cn/user/149189314230039](https://juejin.cn/user/149189314230039)
 - InfoQ: [infoq.cn/u/wzkicu/publish](https://www.infoq.cn/u/wzkicu/publish)
 - LinkedIn: [linkedin.com/in/wuzikang](https://www.linkedin.com/in/wuzikang)
 
 ---
 
-**Here I write about technology, and also about growth.**  
-希望很多年后回头看，这里留下的不只是文章，还有一个人持续向前的轨迹。
+我关注的是一条连续的工程主线：用后端工程搭底座，用 AI Engineering 扩展能力，用独立构建把想法变成长期作品。
