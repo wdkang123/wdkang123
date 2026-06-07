@@ -8,13 +8,20 @@
 
 **Personal Technical Portal:** [wzk.icu](https://wzk.icu/)
 
+## Explore
+
+- [Start Here](https://wzk.icu/start/) — 按 AI Engineering、AI Infra、Backend Engineering、Indie Building、AI Writing Quality 和 Digital Life 选择阅读路径。
+- [Project Map](https://wzk.icu/projects/) — 7 个项目档案，把个人技术门户、AI 工程化、独立工具、工程效率和数字生活实验串起来。
+- [AI Engineering](https://wzk.icu/topics/ai-engineering/) — 从 LLM、Agent / MCP、RAG、实时语音、模型服务和可观测性进入 AI 落地问题。
+- [AscendLab Tools](https://ascend-lab.com/tools) — 175 个免费 browser-side tools，覆盖开发、图片、视频、内容、金融、健康、数学和时间规划。
+
 ## What I Am Building
 
 - **[wzk.icu](https://wzk.icu/) — Personal Technical Portal / 个人技术门户**
-  长期维护的技术档案、项目地图和写作入口，围绕后端工程、AI Engineering、独立构建、技术文章和长期成长记录展开。可以从 [Start Here](https://wzk.icu/start/)、[Projects](https://wzk.icu/projects/)、[Series](https://wzk.icu/series/) 或 [Blog](https://wzk.icu/blog/) 开始。
+  长期维护的技术档案、项目地图和写作入口，围绕后端工程、AI Engineering、独立构建、技术文章和长期成长记录展开。当前沉淀 655 篇技术文章、7 个项目档案、6 条长期主题路径，并通过 Sitemap、RSS、llms.txt 和结构化数据提升搜索与 AI 可读性。可以从 [Start Here](https://wzk.icu/start/)、[Projects](https://wzk.icu/projects/)、[Topics](https://wzk.icu/topics/)、[Series](https://wzk.icu/series/) 或 [Blog](https://wzk.icu/blog/) 开始。
 
 - **[AscendLab](https://ascend-lab.com/) — Browser Tools & AI Workflow Previews**
-  一个独立产品实验，当前公开 147 个 browser-side free tools，覆盖 calculators、converters、developer utilities、image/video tools、content tools 和 time tools。Public tools are free and require no account; AI workflows are still preview / early access / planned, not a mature SaaS yet.
+  一个独立产品实验，当前公开 175 个 browser-side free tools，覆盖 calculators、converters、developer utilities、image/video tools、content tools、finance / health / math helpers 和 time tools。Public tools are free and require no account; AI workflows are still preview / early access / planned, not a mature SaaS yet.
 
 - **AI Voice Intelligence Module — 端云协同 AI voice interaction system**
   正在推进的 AI 工程化项目：端侧关注 wakeup、recording、VAD、playback、interruption；云侧串联 STT → LLM → TTS，并通过 WebSocket / gRPC、Agent / MCP / tool calling、runtime config、trace / observability 把语音交互从 demo 推向可配置、可观测、可扩展的系统。长期方向是 one brain, multiple forms.
@@ -75,7 +82,13 @@ Codex / Claude Code / ChatGPT-style AI workflows、prompt engineering、technica
 - Projects: [wzk.icu/projects](https://wzk.icu/projects/)
 - Blog: [wzk.icu/blog](https://wzk.icu/blog/)
 - Series: [wzk.icu/series](https://wzk.icu/series/)
+- Topics: [wzk.icu/topics](https://wzk.icu/topics/)
+- AI Engineering: [wzk.icu/topics/ai-engineering](https://wzk.icu/topics/ai-engineering/)
+- AI Infra: [wzk.icu/topics/ai-infra](https://wzk.icu/topics/ai-infra/)
+- Indie Building: [wzk.icu/topics/indie-building](https://wzk.icu/topics/indie-building/)
+- AI Writing Quality: [wzk.icu/topics/ai-writing-quality](https://wzk.icu/topics/ai-writing-quality/)
 - AscendLab: [ascend-lab.com](https://ascend-lab.com/)
+- AscendLab Tools: [ascend-lab.com/tools](https://ascend-lab.com/tools)
 - CSDN: [blog.csdn.net/w776341482](https://blog.csdn.net/w776341482)
 - 掘金: [juejin.cn/user/149189314230039](https://juejin.cn/user/149189314230039)
 - InfoQ: [infoq.cn/u/wzkicu/publish](https://www.infoq.cn/u/wzkicu/publish)
