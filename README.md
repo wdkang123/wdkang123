@@ -92,22 +92,81 @@ Codex / Claude Code / ChatGPT-style AI workflows、prompt engineering、technica
 
 ## Public Links
 
+### wzk.icu
+
 - Website: [wzk.icu](https://wzk.icu/)
 - Start Here: [wzk.icu/start](https://wzk.icu/start/)
 - Projects: [wzk.icu/projects](https://wzk.icu/projects/)
 - Blog: [wzk.icu/blog](https://wzk.icu/blog/)
 - Series: [wzk.icu/series](https://wzk.icu/series/)
 - Topics: [wzk.icu/topics](https://wzk.icu/topics/)
+- Workflow: [wzk.icu/workflow](https://wzk.icu/workflow/)
+- Analytics: [wzk.icu/analytics](https://wzk.icu/analytics/)
+- Content Roadmap: [wzk.icu/content-roadmap](https://wzk.icu/content-roadmap/)
+- About: [wzk.icu/about](https://wzk.icu/about/)
+- FAQ: [wzk.icu/faq](https://wzk.icu/faq/)
+- English: [wzk.icu/en](https://wzk.icu/en/)
+- RSS: [wzk.icu/rss.xml](https://wzk.icu/rss.xml)
+- Sitemap: [wzk.icu/sitemap.xml](https://wzk.icu/sitemap.xml)
+- llms.txt: [wzk.icu/llms.txt](https://wzk.icu/llms.txt)
+
+### wzk.icu Topics & Projects
+
 - AI Engineering: [wzk.icu/topics/ai-engineering](https://wzk.icu/topics/ai-engineering/)
 - AI Infra: [wzk.icu/topics/ai-infra](https://wzk.icu/topics/ai-infra/)
+- Backend Engineering: [wzk.icu/topics/backend-engineering](https://wzk.icu/topics/backend-engineering/)
 - Indie Building: [wzk.icu/topics/indie-building](https://wzk.icu/topics/indie-building/)
 - AI Writing Quality: [wzk.icu/topics/ai-writing-quality](https://wzk.icu/topics/ai-writing-quality/)
+- Digital Life: [wzk.icu/topics/digital-life](https://wzk.icu/topics/digital-life/)
+- wzk.icu Project: [wzk.icu/projects/wzk-icu](https://wzk.icu/projects/wzk-icu/)
+- AscendLab Project: [wzk.icu/projects/ascendlab](https://wzk.icu/projects/ascendlab/)
+- AI Voice Module: [wzk.icu/projects/ai-voice-module](https://wzk.icu/projects/ai-voice-module/)
+- AI Infra Handbook: [wzk.icu/projects/ai-infra-handbook](https://wzk.icu/projects/ai-infra-handbook/)
+- stop-slop-zh Project: [wzk.icu/projects/stop-slop-zh](https://wzk.icu/projects/stop-slop-zh/)
+- Code Generator: [wzk.icu/projects/code-generator](https://wzk.icu/projects/code-generator/)
+- TeslaMate: [wzk.icu/projects/teslamate](https://wzk.icu/projects/teslamate/)
+
+### AscendLab
+
 - AscendLab: [ascend-lab.com](https://ascend-lab.com/)
 - AscendLab Tools: [ascend-lab.com/tools](https://ascend-lab.com/tools)
+- Workflows: [ascend-lab.com/workflows](https://ascend-lab.com/workflows)
+- Docs: [ascend-lab.com/docs](https://ascend-lab.com/docs)
+- Blog: [ascend-lab.com/blog](https://ascend-lab.com/blog)
+- About: [ascend-lab.com/about](https://ascend-lab.com/about)
+- Pricing: [ascend-lab.com/pricing](https://ascend-lab.com/pricing)
+
+### AscendLab Tool Categories
+
+- Image Tools: [ascend-lab.com/tools/image-tools](https://ascend-lab.com/tools/image-tools)
+- Video Tools: [ascend-lab.com/tools/video-tools](https://ascend-lab.com/tools/video-tools)
+- Code Generators: [ascend-lab.com/tools/code-generators](https://ascend-lab.com/tools/code-generators)
+- Finance Calculators: [ascend-lab.com/tools/finance-calculators](https://ascend-lab.com/tools/finance-calculators)
+- Health Calculators: [ascend-lab.com/tools/health-calculators](https://ascend-lab.com/tools/health-calculators)
+- Time Tools: [ascend-lab.com/tools/time-tools](https://ascend-lab.com/tools/time-tools)
+- Unit Converters: [ascend-lab.com/tools/unit-converters](https://ascend-lab.com/tools/unit-converters)
+- Content Planning: [ascend-lab.com/tools/content-planning-tools](https://ascend-lab.com/tools/content-planning-tools)
+- Math Tools: [ascend-lab.com/tools/math-tools](https://ascend-lab.com/tools/math-tools)
+
+### AscendLab Popular Tools
+
+- Word Counter: [ascend-lab.com/tools/word-counter](https://ascend-lab.com/tools/word-counter)
+- JSON Formatter: [ascend-lab.com/tools/json-formatter](https://ascend-lab.com/tools/json-formatter)
+- Image Compressor: [ascend-lab.com/tools/image-compressor](https://ascend-lab.com/tools/image-compressor)
+- Video Compressor: [ascend-lab.com/tools/video-compressor](https://ascend-lab.com/tools/video-compressor)
+- QR Code Generator: [ascend-lab.com/tools/qr-code-generator](https://ascend-lab.com/tools/qr-code-generator)
+- Time Zone Converter: [ascend-lab.com/tools/time-zone-converter](https://ascend-lab.com/tools/time-zone-converter)
+- Mortgage Calculator: [ascend-lab.com/tools/mortgage-calculator](https://ascend-lab.com/tools/mortgage-calculator)
+- Markdown Preview: [ascend-lab.com/tools/markdown-preview](https://ascend-lab.com/tools/markdown-preview)
+- Meta Tag Previewer: [ascend-lab.com/tools/meta-tag-previewer](https://ascend-lab.com/tools/meta-tag-previewer)
+
+### Elsewhere
+
 - CSDN: [blog.csdn.net/w776341482](https://blog.csdn.net/w776341482)
 - 掘金: [juejin.cn/user/149189314230039](https://juejin.cn/user/149189314230039)
 - InfoQ: [infoq.cn/u/wzkicu/publish](https://www.infoq.cn/u/wzkicu/publish)
 - LinkedIn: [linkedin.com/in/wuzikang](https://www.linkedin.com/in/wuzikang)
+- 博客园: [cnblogs.com/wzkicu](https://www.cnblogs.com/wzkicu)
 
 ---
 
